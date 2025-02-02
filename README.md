@@ -6,12 +6,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfoilio](http://regal-puppy-02f4e2.netlify.app/)
-* ✉️  You can contact me at [ananyanarang1411@gmail.com](mailto:ananyanarang1411@gmail.com)
-* 🧠  I'm learning JavaScript and React
-* 🤝  I'm open to collaborating on HTML, CSS,JAVASCRIPT
-* ⚡  I am from Delhi, but not a pure Delhiite, Will societ accept me :(
+* 🌍 I'm based in India
+* 🖥️ See my portfolio at [My Portfoilio](http://regal-puppy-02f4e2.netlify.app/)
+* ✉️ You can contact me at [ananyanarang1411@gmail.com](mailto:ananyanarang1411@gmail.com)
+* 🧠 I'm learning JavaScript and React
+* 🤝 I'm open to collaborating on HTML, CSS,JAVASCRIPT
+* 👀 I am from Delhi, but not a pure Delhiite, Will societ accept me :(
 
 ### <p align="left" font-family="Droid Sans"> 🎓 _SKILLS_</p>
 
